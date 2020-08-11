@@ -20,8 +20,6 @@ class Matrix
     }
 };
 
-
-
 int main () {
    int cases,k;
    cin >> cases;
