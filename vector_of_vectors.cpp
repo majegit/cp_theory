@@ -23,7 +23,7 @@ int main() {
     while(q--)
     {
         cin >> a >> b;
-        cout << vecs[a][b];
+        cout << vecs[a][b] << "\n";
     }
     return 0;
 }
