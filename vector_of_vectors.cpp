@@ -16,7 +16,6 @@ int main() {
         while(a--)
         {
             cin >> b;
-            cout << "b is: " << b << "\n";
             vecs[i].push_back(b);
         }
     }
